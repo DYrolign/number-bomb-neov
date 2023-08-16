@@ -1,0 +1,6 @@
+{
+    "msg.welcome.1": "Welcome to play Number Bomb!",
+    "msg.welcome.2": "You will play with robots",
+    "msg.welcome.3": "The system will set random number",
+    "msg.welcome.4": "Print your number \nThen the system will judge \nIf someone guess it, the game ends"
+}

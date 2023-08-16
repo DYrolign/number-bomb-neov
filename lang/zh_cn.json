@@ -1,0 +1,22 @@
+{
+    "msg.welcome.1": "欢迎游玩数字炸弹!",
+    "msg.welcome.2": "你将会和一名电脑玩家共同游玩!",
+    "msg.welcome.3": "系统会随机抽取已设定好的区间之内的整数,并由玩家竞猜",
+    "msg.welcome.4": "输入数字,系统将给出大小判断,若猜中则游戏结束",
+    "msg.version": "版本: {}\n作者: {}",
+    "msg.reveal": "炸弹数字为{}",
+    "msg.skip": "跳过中...",
+    "msg.exit": "退出中...",
+    "msg.win": "本局结束, 您获胜了!",
+    "msg.lose": "本局结束, 电脑玩家{}胜利!",
+    "msg.ready": "准备开始游戏!",
+    "msg.match": "匹配到电脑玩家 {}",
+    "msg.input": "请输入{}到{}之间的整数:",
+    "msg.warn.little": "请输入大于{}的整数",
+    "msg.warn.big": "请输入小于{}的整数",
+    "msg.warn.int": "请输入有效的整数!",
+    "msg.little": "太小了!",
+    "msg.big": "太大了!",
+    "msg.wait": "等待电脑玩家{}输入...",
+    "msg.bot_input": "电脑玩家{}输入:{}"
+}
