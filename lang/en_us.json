@@ -2,5 +2,21 @@
     "msg.welcome.1": "Welcome to play Number Bomb!",
     "msg.welcome.2": "You will play with robots",
     "msg.welcome.3": "The system will set random number",
-    "msg.welcome.4": "Print your number \nThen the system will judge \nIf someone guess it, the game ends"
+    "msg.welcome.4": "Print your number \nThen the system will judge \nIf someone guess it, the game ends",
+    "msg.version": "Version: {}\nAuthor: {}",
+    "msg.reveal": "The Bomb is {}",
+    "msg.skip": "Skipping...",
+    "msg.exit": "Exiting...",
+    "msg.win": "You Win!",
+    "msg.lose": "Bot {} Wins!",
+    "msg.ready": "Ready!",
+    "msg.match": "Matched the Bot {}",
+    "msg.input": "Please type an INT from {} to {}\n",
+    "msg.warn.little": "The number should be larger than {}",
+    "msg.warn.big": "The number should be less than {}",
+    "msg.warn.int": "NUMBER PLZ",
+    "msg.little": "Too little",
+    "msg.big": "Too large",
+    "msg.wait": "The Bot {} is Typing...",
+    "msg.bot_input": "The Bot {} inputs {}"
 }

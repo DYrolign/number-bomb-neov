@@ -10,7 +10,6 @@ class msg:
         print(api.getMsg('msg.reveal').format(game['bomb']))
         print(api.getMsg('msg.exit'))
         sleep(1)
-        exit(0)
 
     # Skip
     def skip():
@@ -50,9 +49,9 @@ class msg:
         sleep(0.1)
 
 
-prof = api.getConfig('profile')
-data = api.getConfig('settings')
-names = api.getConfig('names')
+prof = api.getConfig('config\\profile')
+data = api.getConfig('config\\settings')
+names = api.getConfig('config\\names')
 game = {
     'min': 0,
     'max': 0,
@@ -85,6 +84,7 @@ def MainGame():
     # Exit Game
     if plInput == "exit":
         msg.exit()
+        exit(0)
 
     # Skip this round
     if plInput == "skip":
